@@ -165,7 +165,7 @@ The following are input properties a `Form` component can take.
 | [formGroups](#formgroups)                   | `FormGroup \| FormGroup[]` | required |
 | [readOnly](#readonly)                       | `boolean`                  | optional |
 | [showValidationHints](#showvalidationhints) | `boolean`                  | optional |
-| [validateOnLoad](#validateOnLoad)           | `boolean`                  | optional |
+| [validateOnLoad](#validateonload)           | `boolean`                  | optional |
 | [submitControl](#submitcontrol)             | `Submit`                   | optional |
 | [theme](#theme)                             | `'light' \| 'dark'`        | optional |
 
